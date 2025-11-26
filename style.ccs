@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #fff;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo-text {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: 1px solid #fff;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #aaa;
+}
